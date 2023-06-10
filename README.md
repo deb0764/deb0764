@@ -3,7 +3,7 @@
  
 _- Currently working at Emblem Technologies as a Full Stack Developer_
 
- ![](https://komarev.com/ghpvc/?username=deb0764&color=brightgreen) ![](https://img.shields.io/github/followers/muffeez1?style=social)
+ ![](https://komarev.com/ghpvc/?username=deb0764&color=brightgreen) ![](https://img.shields.io/github/followers/muffez1?style=social)
  
 
 - 💞️ I’m interested in **MEAN & MERN Stack** Web Development
