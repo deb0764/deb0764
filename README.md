@@ -1,7 +1,6 @@
 # Hello 👋 I’m Debarghya Mondal
-**_I'm a Frontend Web Developer skilled in MERN & MEAN stack who focuses on writing clean, elegant and efficient code._**
- 
-_- Currently working at Emblem Technologies as a Full Stack Developer_
+**_I'm a Software Engineer ( Frontend Developer ) at Degpeg, Graduated from MVJCE, Bengaluru. I have 2+ years of experience in Angular & React with proficiency in web technologies like HTML5, CSS3, JavaScript, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces._**
+
 
  ![](https://komarev.com/ghpvc/?username=mufeez1&color=brightgreen) ![](https://img.shields.io/github/followers/mufeez1?style=social)
  
