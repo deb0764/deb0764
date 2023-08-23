@@ -7,7 +7,7 @@ _- Currently working at Emblem Technologies as a Full Stack Developer_
  
 
 - 💞️ I’m interested in **MEAN & MERN Stack** Web Development
-- 🌱 I’m currently learning **DSA in JS** & **WEB 3.0**
+- 🌱 I’m currently learning **CICD**
 - 👀 I’m looking to collaborate on **Frontend** , **Backend** and **Full Stack** Projects
 
 
