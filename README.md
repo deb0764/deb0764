@@ -3,13 +3,6 @@
 
 
  ![](https://komarev.com/ghpvc/?username=mufeez1&color=brightgreen) ![](https://img.shields.io/github/followers/mufeez1?style=social)
- 
-
-- 💞️ I’m interested in **MEAN & MERN Stack** Web Development
-- 🌱 I’m currently learning **CICD**
-- 👀 I’m looking to collaborate on **Frontend** , **Backend** and **Full Stack** Projects
-
-
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 ## _My Tech Stack_ 🚀
