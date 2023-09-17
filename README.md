@@ -1,5 +1,5 @@
 # Hello 👋 I’m Debarghya Mondal
-**_I'm a Software Engineer ( Frontend Developer ) at Degpeg, Graduated from MVJCE, Bengaluru. I have 2+ years of experience in Angular & React with proficiency in web technologies like HTML5, CSS3, JavaScript, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces._**
+**_I'm a Software Engineer ( Frontend Developer ) at Degpeg, Graduated from MVJCE, Bengaluru. I have 2+ years of experience in Angular & React with proficiency in web technologies like HTML, CSS, JavaScript, Typescript building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces._**
 
 
  ![](https://komarev.com/ghpvc/?username=mufeez1&color=brightgreen) ![](https://img.shields.io/github/followers/mufeez1?style=social)
